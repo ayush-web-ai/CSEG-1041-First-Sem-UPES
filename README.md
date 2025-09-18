@@ -1,5 +1,5 @@
 
-# CSEG-1041 First Semester Assignments – UPES\
+# CSEG-1041 First Semester Assignments – UPES
 ---
 This repository contains my solutions for the first semester assignments of CSEG-1041 at UPES. The work is organized by topic and question, with each folder representing a different set of problems.
 # Structure
