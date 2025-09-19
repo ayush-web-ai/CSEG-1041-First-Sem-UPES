@@ -19,11 +19,11 @@ void memory(int arr[][3],int n,int m);
 int main(){
     printf("|=====STUDENT MARKS ANALYSIS TABLE====|\n");
     int arr[5][3]={
-        {95,96,92},//student 1
-        {92,89,82},//student 2
-        {90,85,76},//student 3
-        {84,48,72},//student 4
-        {66,59,64}//student 5
+        {92,93,97},//student 1
+        {92,78,89},//student 2
+        {92,79,66},//student 3
+        {87,58,62},//student 4
+        {43,52,54}//student 5
         };
     printtable(arr,5,3);
     total(arr,5,3);
